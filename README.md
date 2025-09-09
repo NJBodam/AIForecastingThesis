@@ -38,10 +38,10 @@ In cpi_inflation_MM_forecasting and cpi_inflation_MM_forecasting the directory a
 .
 ├── cpi_inflation_MM_forecasting.ipynb           # Python scripts and utility functions used for training and testing for MM
 ├── cpi_inflation_RM_forecasting.ipynb           # Python scripts and utility functions used for training and testing for RM
-├── data_processing.ipynb                 	      # Python scripts used for preprocessing the data 
-├── README.md            				             # Project documentation
-├── results_MM_forecasting                 	      # Output results and figures for MM
-└── results_RM_forecasting      				      # Output results and figures for RM
+├── data_processing.ipynb                 	     # Python scripts used for preprocessing the data 
+├── README.md            				         # Project documentation
+├── results_MM_forecasting                 	     # Output results and figures for MM
+└── results_RM_forecasting      				 # Output results and figures for RM
 ```
 
 ## Notebook - data_processing
