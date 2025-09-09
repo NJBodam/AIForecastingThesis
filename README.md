@@ -99,10 +99,10 @@ The steps involved here:
 ## Models Implemented
 
 This repository contains implementations and evaluations of the following time series forecasting models:
-	1	Vector Autoregression (VAR): A classical multivariate time series model used as a benchmark.
-	2	Autoregressive Integrated Moving Average (ARIMA): A univariate time series model adapted for a single variable forecast in this context.
-	3	Seasonal Autoregressive Integrated Moving Average (SARIMA): An extension of ARIMA to handle seasonality in time series data.
-	4	Variant Convolutional Neural Network: A deep learning model that combines convolutional layers for feature extraction. We employed various implementations  such as 1D, 2D, variational autoencoders (VAEs), Shapley additive explanations (SHAP) and extended lookback feature length (guided by the Partial Autocorrelation Function - PACF) 
+1. Vector Autoregression (VAR): A classical multivariate time series model used as a benchmark.
+2. Autoregressive Integrated Moving Average (ARIMA): A univariate time series model adapted for a single variable forecast in this context.
+3. Seasonal Autoregressive Integrated Moving Average (SARIMA): An extension of ARIMA to handle seasonality in time series data.
+4. Variant Convolutional Neural Network: A deep learning model that combines convolutional layers for feature extraction. We employed various implementations  such as 1D, 2D, variational autoencoders (VAEs), Shapley additive explanations (SHAP) and extended lookback feature length (guided by the Partial Autocorrelation Function - PACF) 
 
 
 
